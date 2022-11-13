@@ -17,9 +17,9 @@ djangorestframework==3.7.7          # Django REST framework
 coreapi==2.3.3                      # API schema generation (CoreAPI schema format)
 coreschema==0.0.4                   # API schema generation
 
-celery==4.1.1                       # Celery task manager
+celery==5.2.2                       # Celery task manager
 django-celery-beat==1.1.1           # Celery task scheduler
-django-celery-results==1.0.1        # Celery task result storage
+django-celery-results==2.0.0        # Celery task result storage
 kombu==4.2.0                        # Python messaging library
 
 pandas==0.23.0                      # Data structures for tabular data
@@ -29,7 +29,7 @@ PyYAML==4.2b1                       # YAML parsing/generation
 markdown==2.6.11                    # Markdown parsing/generation
 xlrd==1.1.0                         # Parsing of XLS* documents
 
-psutil==5.4.3                       # System utilities
+psutil==5.6.7                       # System utilities
 tblib==1.3.2                        # Traceback serialization (for parallel exceptions)
 urllib3>=1.25
 
