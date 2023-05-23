@@ -1,4 +1,4 @@
-requests==2.20.0           # Outbound network requests
+requests==2.31.0           # Outbound network requests
 coverage==4.5.1            # Test coverage analysis/reporting
 selenium==3.14.1           # Selenium test framework
 
