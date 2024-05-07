@@ -7,3 +7,4 @@ sphinx_rtd_theme==0.4.2    # Documentation site theme
 recommonmark==0.4.0        # Markdown to HTML processing for Sphinx
 
 locustio==0.9.0            # Python load testing
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
